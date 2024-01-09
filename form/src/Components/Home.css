@@ -1,0 +1,48 @@
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: palevioletred;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  main {
+    padding: 20px 0;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: gray;
+    color: white;
+    position: fixed auto;
+    bottom: 0;
+    width: 100%;
+  }
+
+  Card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    max-height: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-image: url(C:\Users\SightSpectrum\Desktop\reactjs\form\image\cartoon.jpg);
+
+  }
+  
